@@ -7,4 +7,5 @@
 
 [Forrásanyagok folderben](https://github.com/LilNope/Projektmunka/tree/39eece98d6c2d7c8475061b531a08f71361febf2/Forr%C3%A1s)
 
-[Trello](https://trello.com/invite/b/6919d80a1eb4dc4ef53c64c0/ATTIf0ec5acb17c3a907a17f9a85a84b09db86D18D07/projektmunka)
+[Trello](https://trello.com/b/FlYUQ2Y8/projektmunka)
+

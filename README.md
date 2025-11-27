@@ -9,3 +9,4 @@
 
 [Trello](https://trello.com/b/FlYUQ2Y8/projektmunka)
 
+(A harmadik fiok az az en masik fiokom csak bebugolt a github desktopom es az elso commit onnan ment. NSV.)

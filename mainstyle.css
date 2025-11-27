@@ -1,16 +1,35 @@
-h1 {
-  text-align: center;
-  font-family: 'Plus Jakarta Sans', sans-serif;
-  margin: 50px;
+body {
+    background-color: rgb(18, 18, 18)
 }
-p {
-  text-align: left;
-  font-family: 'Plus Jakarta Sans', sans-serif;
-}
-a {
-  text-align: center;
-  font-family: 'Plus Jakarta Sans', sans-serif;
-}
-.leftmargin {
+
+img {
+    float: right;
+    max-width:60%;
+    height: auto;
+    margin-right: 30px;
     margin-left: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    margin: 50px;
+    color: white;
+}
+
+p {
+    text-align: left;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: white;
+}
+
+a {
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: white;
+}
+
+.pmain {
+    margin-left: 30px;
+    margin-right: 30px;
 }

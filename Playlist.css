@@ -16,4 +16,11 @@ body {
     background-color: #111;   
     color: white;             
     border: none;
+
+
+}
+li {
+    margin-left: 10px;
+    margin-right: 10px;
+
 }

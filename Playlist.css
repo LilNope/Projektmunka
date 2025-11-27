@@ -1,3 +1,19 @@
 body {
     background-color: rgb(18,18,18);
 }
+
+.img {
+    width: 400px;
+}
+
+.playlist-box {
+    background-color: #000;  
+    color: white;            
+    padding: 15px;  
+    border-radius: 6px;      
+}
+.playlist-box .list {
+    background-color: #111;   
+    color: white;             
+    border: none;
+}

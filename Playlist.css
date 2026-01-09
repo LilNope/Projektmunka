@@ -23,3 +23,10 @@ li {
     font-family: 'Plus Jakarta Sans', sans-serif;
 
 }
+.hover-scale {
+    transition: transform 0.3s ease; 
+}
+
+.hover-scale:hover {
+    transform: scale(1.2); 
+}

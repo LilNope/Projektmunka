@@ -4,6 +4,7 @@ body {
 
 .img {
     width: 400px;
+    
 }
 
 .playlist-box {
@@ -26,9 +27,9 @@ li {
 
 }
 .hover-scale {
-    transition: transform 0.3s ease; 
+    transition: transform 0.3s ; 
 }
 
 .hover-scale:hover {
-    transform: scale(1.2); 
+     transform:scale(2.5);
 }
